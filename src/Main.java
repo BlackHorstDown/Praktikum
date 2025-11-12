@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 void main() {
     int a = 2;
-    int b = 3;
+    int b = 4;
     int c = 9;
 
     float result = ((float)a+b+c)/3;
